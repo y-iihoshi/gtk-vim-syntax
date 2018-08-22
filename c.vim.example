@@ -2,6 +2,7 @@
 " Put it in ~/.vim/after/syntax/ and tailor to your needs.
 
 let cairo_deprecated_errors = 1
+let dbusglib_deprecated_errors = 1
 let gdkpixbuf_deprecated_errors = 1
 let glib_deprecated_errors = 1
 let gtk3_deprecated_errors = 1
